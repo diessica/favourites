@@ -4,7 +4,7 @@ My essential **favourites** on web:
 - [Bookmarks](#bookmarks)
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
-- [Browser extensions](#)
+- [Browser extensions](#browser-extensions)
 
 **As organised as possible**: [Feedly](http://feedly.com/), to read feeds; [Raindrop](http://raindrop.io), to manage bookmarks; [Player FM](https://player.fm), to listen and manage podcasts and  [Pocket](https://getpocket.com/a/favorites/list) to bookmark my favourite articles.
 
@@ -42,3 +42,12 @@ I use [Player FM](https://player.fm) to manage and listen to podcasts.
 - [LastPass](https://lastpass.com/download)
 - [ColorZilla](http://www.colorzilla.com)
 - Flagfox ([Firefox](https://addons.mozilla.org/firefox/addon/flagfox))
+
+
+---
+
+###### LICENSE
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Diéssica Gurskas](http://diessi.ca) has waived all copyright and related or neighboring rights to this work.
