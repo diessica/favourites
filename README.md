@@ -1,6 +1,6 @@
 # favourites!
 My essential **favourites** on web:
-- [Feeds](#newsletters)
+- [Feeds](#feeds)
 - [Bookmarks](#bookmarks)
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
