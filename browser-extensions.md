@@ -20,6 +20,8 @@
     - [Private Tab](https://addons.mozilla.org/firefox/addon/private-tab)
     - [Open Tabs Next to Current](https://addons.mozilla.org/firefox/addon/open-tabs-next-to-current)
     - [Open with Google Chrome](https://addons.mozilla.org/firefox/addon/open-with-google-chrome)
+  - Chrome
+    - [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en)
 
 #### Services
   - [Add to Wunderlist](https://www.wunderlist.com/download)
