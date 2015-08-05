@@ -22,7 +22,6 @@
     - [Open Tabs Next to Current](https://addons.mozilla.org/firefox/addon/open-tabs-next-to-current)
     - [Open with Chrome](https://addons.mozilla.org/firefox/addon/open-with-google-chrome)
   - Chrome
-    - [Open with Firefox](https://chrome.google.com/webstore/detail/open-with-firefox/poeacjbaiakjnaepdjgggojcjoajakmd/related) 
     - [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en)
 
 #### Services
