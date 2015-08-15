@@ -7,6 +7,7 @@
   - YSlow
   - Flagfox ([Firefox](https://addons.mozilla.org/firefox/addon/flagfox))
   - HTML5 Storage Manager All in One ([Chrome](https://chrome.google.com/webstore/detail/html5-storage-manager-all/giompennnhheakjcnobejbnjgbbkmdnd?hl=en))
+  - React Developer Tools ([Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi))
 
 #### Experience enhancements
 - [Stylish](https://userstyles.org)
