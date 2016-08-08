@@ -3,10 +3,8 @@
 ## Browser extensions
 
 #### Helpers
-  - YSlow
-  - Flagfox ([Firefox](https://addons.mozilla.org/firefox/addon/flagfox))
-  - HTML5 Storage Manager All in One ([Chrome](https://chrome.google.com/webstore/detail/html5-storage-manager-all/giompennnhheakjcnobejbnjgbbkmdnd?hl=en))
-  - React Developer Tools ([Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi))
+  - React Developer Tools
+  - Redux Developer Tools
 
 #### Experience enhancements
 - [Stylish](https://userstyles.org)
@@ -20,12 +18,8 @@
   - Firefox
     - [Private Tab](https://addons.mozilla.org/firefox/addon/private-tab)
     - [Open Tabs Next to Current](https://addons.mozilla.org/firefox/addon/open-tabs-next-to-current)
-    - [Open with Chrome](https://addons.mozilla.org/firefox/addon/open-with-google-chrome)
   - Chrome
     - [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en)
-  - Safari
-    - [SafariStand](http://hetima.com/safaristand/)
-    - [Ultimate Status Bar](http://ultimatestatusbar.com)
 
 #### Services
   - [Add to Wunderlist](https://www.wunderlist.com/download)
